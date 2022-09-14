@@ -1,4 +1,4 @@
-package Exceptions;
+package Exceptions.HW_1;
 
 import java.lang.reflect.Array;
 

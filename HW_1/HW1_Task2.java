@@ -1,4 +1,4 @@
-package Exceptions;
+package Exceptions.HW_1;
 
 public class HW1_Task2 {
 

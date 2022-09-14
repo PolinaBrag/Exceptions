@@ -1,4 +1,4 @@
-package Exceptions;
+package Exceptions.HW_1;
 import java.util.Arrays;
 
 // Реализуйте метод, принимающий в качестве аргументов два целочисленных массива, 
